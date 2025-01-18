@@ -110,7 +110,7 @@ pip install yt-dlp
 pip install tqdm
 ```
 7. Press Enter after each command and wait for installation to complete
-8. If unable to download packages using using those commands try the following commands
+8. If unable to download packages using those commands try the following commands
 ```bash
 python -m pip install yt-dlp
 python -m pip install tqdm
