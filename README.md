@@ -110,6 +110,11 @@ pip install yt-dlp
 pip install tqdm
 ```
 7. Press Enter after each command and wait for installation to complete
+8. If unable to download packages using using those commands try the following commands
+```bash
+python -m pip install yt-dlp
+python -m pip install tqdm
+```
 
 ### 4. Run the Script
 1. In VS Code, click on tiktok_downloader.py in the left sidebar
